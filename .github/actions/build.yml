@@ -1,8 +1,0 @@
-name: build the mkdocs
-author: dumeng
-inputs:
-
-runs:
-  build:
-    using: 'docker'
-    image: 'docker://squidfunk/mkdocs-material'
