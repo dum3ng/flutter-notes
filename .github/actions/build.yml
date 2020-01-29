@@ -6,4 +6,3 @@ runs:
   build:
     using: 'docker'
     image: 'docker://squidfunk/mkdocs-material'
-    
